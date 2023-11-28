@@ -23,7 +23,7 @@ Teaching is a fundamental component in scholarly activity that allows one to ins
     <h6 class="font-italic mt-2 mt-sm-2">Summer 2023: Complex Systems Summer School Program Coordinator</h6>
     <h6 class="font-italic mt-2 mt-sm-2">Winter 2022: Complexity Interactive Project Coordinator</h6>
     <h6 class="font-italic mt-2 mt-sm-2">Summer 2021: Complexity Interactive Teaching Fellow</h6>
-    <h6 class="font-italic mt-2 mt-sm-2">2018 - 2020: Lead Instructor for online course "Intro to Complexity</h6>
+    <h6 class="font-italic mt-2 mt-sm-2">2018 - 2020: Lead Instructor for online course "Intro to Complexity"</h6>
 
   </div>
 </div>
@@ -46,7 +46,7 @@ Teaching is a fundamental component in scholarly activity that allows one to ins
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">University of California Irvine</h5>
+        <h5 class="font-weight-bold">University of California, Irvine</h5>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-2">2022: Mentor for "Micro-Mentoring Program"</h6>
