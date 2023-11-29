@@ -1,7 +1,7 @@
 ---
 layout: page
 title: combinatorial structure of games
-description: from inidivual preferences to externalities
+description: from individual preferences to externalities
 img: assets/img/games.png
 importance: 2
 category: work
