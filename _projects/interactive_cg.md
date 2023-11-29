@@ -13,7 +13,7 @@ Part of my work was to survey available tools, methods, and software environment
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cg0.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cg0.png" title="Klak patch" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -27,13 +27,13 @@ Read the full documentation <a href="../../assets/pdf/tr-02-2021.pdf">here</a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cg1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cg1.png" title="Computer graphics scene" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cg2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cg2.png" title="Computer graphics scene" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cg3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cg3.png" title="Computer graphics scene" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
