@@ -35,7 +35,7 @@ Teaching is a fundamental component in scholarly activity that allows one to ins
         <h5 class="font-weight-bold">University of Texas at Austin</h5>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-2">Spring 2023: Microeconomic Theory</h6>
+    <h6 class="font-italic mt-2 mt-sm-2">Spring 2023: Lecturer in Economics (Microeconomic Theory)</h6>
        <!--<ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Created "hackathon" project schematics for participants of advanced training workshop to engage in interdisciplinary collaboration.</li>
     </ul>-->
