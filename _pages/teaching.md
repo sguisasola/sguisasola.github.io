@@ -50,7 +50,7 @@ Teaching is a fundamental component in scholarly activity that allows one to ins
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-2">2022: Mentor for "Micro-Mentoring Program"</h6>
-    <h6 class="font-italic mt-2 mt-sm-2">2016: Obtained the "Certificate for Teaching Excellence"</h6>
+    <h6 class="font-italic mt-2 mt-sm-2">2016: Obtained the "Certificate in Teaching Excellence"</h6>
     <!--<ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Created "hackathon" project schematics for participants of advanced training workshop to engage in interdisciplinary collaboration.</li>
     </ul>-->
@@ -78,6 +78,6 @@ Teaching is a fundamental component in scholarly activity that allows one to ins
         <h5 class="font-weight-bold">California State University, Long Beach</h5>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-2">Fall 2015, Fall 2016, Spring 2017: Lecturer in Information Systems (Business Statistics)</h6>
+    <h6 class="font-italic mt-2 mt-sm-2">Fall 2015 (2 sections), Fall 2016, Spring 2017 (2 sections): Lecturer in Information Systems (Business Statistics)</h6>
   </div>
 </div>

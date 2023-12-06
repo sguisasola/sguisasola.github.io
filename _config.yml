@@ -15,7 +15,7 @@ footer_text:
 keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: games.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sguisasola.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -252,8 +252,8 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
-  group_order: descending
+  #group_by: year
+  #group_order: descending
 
 # Display different badges withs stats for your publications
 enable_publication_badges:

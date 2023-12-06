@@ -1,7 +1,7 @@
 ---
 layout: page
 title: interactive computer graphics
-description: let my sound change your sight
+description: let sound change sight
 img: assets/img/cgraphs.png
 importance: 3
 category: work
