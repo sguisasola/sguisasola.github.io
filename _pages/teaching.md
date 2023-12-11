@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
-nav_order: 5
+nav_order: 1
 ---
 
 Teaching is a fundamental component in scholarly activity that allows one to inspire and share knowledge with the next generation of thinkers and scientists. I thoroughly enjoy teaching and have sought opportunities since I first became an undergraduate mathematics tutor in college. Bellow is a summary of my teaching activities, organized by institution.
@@ -36,14 +36,14 @@ Teaching is a fundamental component in scholarly activity that allows one to ins
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-2">Spring 2023: Lecturer in Economics (Microeconomic Theory)</h6>
-    <h7>Course materials:</h7>
-       <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item" style="font-size:95%">
-      <a href="../assets/img/flowchart.jpg">"Big Picture" Flowchart for Consumer Theory</a>
-      <br><br>
-      <a href="../assets/pdf/gtheory_review.pdf">Game Theory Lecture Notes</a>
-      </li>
-    </ul>
+    <h7>Course materials:</h7><br>
+       <!--<ul class="card-text font-weight-light list-group list-group-flush">-->
+      <!--<li class="list-group-item" style="font-size:95%">-->
+      <span>&#8226;</span> <a href="../assets/img/flowchart.jpg"> "Big Picture" Flowchart for Consumer Theory</a>
+      <br>
+      <span>&#8226;</span> <a href="../assets/pdf/gtheory_review.pdf"> Game Theory Lecture Notes</a>
+      <!--</li>-->
+    <!--</ul>-->
   </div>
 </div>
 
