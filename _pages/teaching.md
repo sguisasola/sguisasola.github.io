@@ -36,9 +36,14 @@ Teaching is a fundamental component in scholarly activity that allows one to ins
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-2">Spring 2023: Lecturer in Economics (Microeconomic Theory)</h6>
-       <!--<ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> Created "hackathon" project schematics for participants of advanced training workshop to engage in interdisciplinary collaboration.</li>
-    </ul>-->
+    <h7>Course materials:</h7>
+       <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="font-size:95%">
+      <a href="../assets/img/flowchart.jpg">"Big Picture" Flowchart for Consumer Theory</a>
+      <br><br>
+      <a href="../assets/pdf/gtheory_review.pdf">Game Theory Lecture Notes</a>
+      </li>
+    </ul>
   </div>
 </div>
 
