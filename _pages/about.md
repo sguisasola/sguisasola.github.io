@@ -19,8 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Santiago. I received my PhD in Mathematical Behavioral Sciences from the University of California, Irvine.
+Hi! I’m Santiago. I received my PhD in Mathematical Behavioral Sciences from the University of California, Irvine. 
 
 I have been actively involved in undergraduate education since my graduate studies and have worked with the education team at the <a href="https://santafe.edu">Santa Fe Institute</a> on online and in-person programs since 2018.
 
 My research is on creativity, collaboration, and coordination within multi-agent systems. I've worked on the theoretical aspects of this investigation using game theory. Through musical improvisations conducted on networks, I aimed to isolate and understand the effects of information flow on these fundamental aspects. Additionally, I've documented a method for interactive media, providing a platform for further experimentation in this intriguing area of work.
+
+For more details, please see my <a href="../assets/pdf/guisasola_cv.pdf">CV</a>. 
