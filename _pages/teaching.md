@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-Teaching is a fundamental component in scholarly activity that allows one to inspire and share knowledge with the next generation of thinkers and scientists. I thoroughly enjoy teaching and have sought opportunities since I first became an undergraduate mathematics tutor in college. Bellow is a summary of my teaching activities, organized by institution.
+Teaching is a fundamental component in scholarly activity that allows one to inspire and share knowledge with the next generation of thinkers and scientists. I thoroughly enjoy teaching and have sought opportunities since I first became an undergraduate mathematics tutor in college. Below is a summary of my teaching activities, organized by institution.
 
 <div class="card mt-3">
   <div class="p-3">
